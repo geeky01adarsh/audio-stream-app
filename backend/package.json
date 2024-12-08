@@ -1,0 +1,22 @@
+{
+  "name": "audio-streaming-app-be",
+  "version": "1.0.0",
+  "description": "Backend for an audio streaming application",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest __test__/main.test.ts --coverage --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeky01adarsh/audio-stream-app.git"
+  },
+  "keywords": [
+    "audio-streaming-app"
+  ],
+  "author": "geeky01adarsh (Adarsh Navneet Sinha)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geeky01adarsh/audio-stream-app/issues"
+  },
+  "homepage": "https://github.com/geeky01adarsh/audio-stream-app#readme"
+}
